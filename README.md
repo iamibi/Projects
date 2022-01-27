@@ -26,3 +26,8 @@ An outline of projects I have worked on.
 ### *Python*
 * RSA Algorithm for message encryption using block cipher
 * Accepts a plain text message via terminal or file as input and outputs an encrypted message
+#
+# Open Source Contributions
+* [oauth-ruby](https://github.com/oauth-xx/oauth-ruby) - A Ruby library which implements OAuth 1.0
+* [TemPy](https://github.com/Hrabal/TemPy) - Fast Object-Oriented HTML templating With Python
+* [C-Guide-for-Beginners](https://github.com/OpenGuide/C-Guide-for-Beginners) - A guide for beginners in C language
