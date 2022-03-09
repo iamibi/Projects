@@ -1,1 +1,5 @@
-Secure Code Review on Open-Source Project [Sonarr](https://github.com/Sonarr/Sonarr/tree/81ff4791acd49e7f557785a41506f75273a657ae) and wrote the report on Common Weakness Enumeration's (CWE's) found. The Report outlines all the tools used in compliment with the manual code review process.
+- Performed Secure Code Review on Open-Source Project [Sonarr](https://github.com/Sonarr/Sonarr/tree/81ff4791acd49e7f557785a41506f75273a657ae)
+- Wrote a report on the Common Weakness Enumeration's (CWE's) found during the review
+- Involved manual code review
+- Project was cloned and built locally
+- The Report outlines all the tools used in complement with the manual code review process.
