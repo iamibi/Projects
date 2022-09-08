@@ -1,6 +1,12 @@
 # Projects
 An outline of projects I have worked on.
 
+## [Secure Code Review](https://github.com/iamibi/Projects/tree/Secure-Code-Review)
+*Code Review*
+* Performed Secure Code Review on Open-Source Project [Sonarr](https://github.com/Sonarr/Sonarr/tree/81ff4791acd49e7f557785a41506f75273a657ae)
+* Wrote a report on the Common Weakness Enumeration's (CWE's) found during the review
+* The Report outlines all the tools used in complement with the manual code review process
+
 ## [Secure Web Application](https://github.com/iamibi/Webgoat.NET)
 *.NET Framework 4.7*
 * Worked on attacking and defending the Webgoat.NET application
