@@ -1,6 +1,12 @@
 # Projects
 An outline of projects I have worked on.
 
+## [Avionics Dash Server](https://github.com/iamibi/avionics-dash-server)
+*Python, Flask, MongoDb*
+* Developed the backend for Avionics Dash using Flask REST Api's
+* Deployed the application on https://app.koyeb.com for client access
+* Functionality involved authentication, modules/assignments to be served to client
+
 ## [Secure Code Review](https://github.com/iamibi/Projects/tree/Secure-Code-Review)
 *Code Review*
 * Performed Secure Code Review on Open-Source Project [Sonarr](https://github.com/Sonarr/Sonarr/tree/81ff4791acd49e7f557785a41506f75273a657ae)
