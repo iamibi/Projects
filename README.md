@@ -62,3 +62,7 @@ Blue, Cowroot, Privilege Escalation, Buffer Overflow, etc.
 * [oauth-ruby](https://github.com/oauth-xx/oauth-ruby) - A Ruby library which implements OAuth 1.0
 * [TemPy](https://github.com/Hrabal/TemPy) - Fast Object-Oriented HTML templating With Python
 * [C-Guide-for-Beginners](https://github.com/OpenGuide/C-Guide-for-Beginners) - A guide for beginners in C language
+* [black](https://github.com/psf/black) - _Black_ is the uncompromising Python code formatter.
+* [aioresponses](https://github.com/pnuckowski/aioresponses) - Aioresponses is a helper to mock/fake web requests in python aiohttp package.
+* [pylint-pydantic](https://github.com/fcfangcc/pylint-pydantic) - A Pylint plugin to help Pylint understand the Pydantic
+* [flake8-type-checking](https://github.com/snok/flake8-type-checking) - Lets you know which imports to move in or out of type-checking blocks.
